@@ -1,0 +1,101 @@
+html {
+    scroll-behavior: smooth;
+}
+#second section{
+    background-color: yellow;
+}
+
+
+.text-in-white{
+    color: #e00f0f;
+}
+#header-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/download.png);
+    background-position: center center, center center;
+    background-size: fill, fill;
+    background-repeat: repeat, repeat;
+}
+
+#parallax-section {
+    background-color: rgb(182, 17, 17);
+}
+
+#footer-section {
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, .75), rgba(0, 0, 0, .75)), url(../images/download.png);
+    background-position: center center, center center;
+    background-size: center, center;
+    background-repeat: repeat, repeat;
+}
+#Third Section {
+    background-color: rgb(124, 100, 91);
+}
+#second-section{
+    color:white;
+    background-color: rgb(189, 16, 16);
+}
+#section-five{
+    color: white;
+    font-size: 110%;
+}
+#text-abcd {
+    color: gray;
+}
+    
+    
+#Red-Block {
+    background-color: rgb(182, 17, 17);
+}
+#White-Block {
+    background-color: white;
+}
+#Gray-Block {
+    background-color: gray;
+}
+#White-Block2 {
+    background-color: white;
+}
+#Gray-Block2{
+    background-color: gray;
+}
+#Red-Block2 {
+    background-color: rgb(182, 17, 17);
+}
+#Gray-Background{
+    background-color: gray;
+}
+.Writing1 {
+    color: white;
+}
+#Position {
+    background-position-x: center}
+#topbar {
+    background-color: gray;
+}
+.section-six {
+    color: white;
+}
+#top1 {
+    color: white;
+}
+#Red-Background {
+    background-color:rgb(182, 17, 17);
+    padding-bottom: 4.5rem;
+    padding-top: 4.5rem;
+}
+h1 {
+    font-style: italic;
+    font-weight: bolder;
+}
+#text1 {
+    font-size: 150%;
+}
+#picture1 {
+    margin-left: 110px;
+}
+#picture2 {
+    margin-left: 110px;
+}
+h5 {
+    font-weight: bold;
+    color: black;
+}
